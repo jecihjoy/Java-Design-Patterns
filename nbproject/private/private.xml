@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/javadesignpatterns/RemoteProxyPattern/ReportGeneratorImplementation.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>50</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/UFOEnemyShipBuilding.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/UFOBossEnemyShipFactory.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/JavaDesignPatterns.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/EnemyShipFactory.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FactoryDesignPattern/EnemyShip.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/EnemyShip.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/ESEngine.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/UFOBossEnemyShip.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FacadeDesignPattern/TestMainClass.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/UFOEnemyShipFactory.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/VirtualProxyPattern/ContactList.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/ProtectionProxyPattern/Staff.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/RemoteProxyPattern/ReportGenerator.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/ESWeapon.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FacadeDesignPattern/WelcomeToBank.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/EnemyShipBuilding.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FacadeDesignPattern/AccountNumberCheck.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/VirtualProxyPattern/Company.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FactoryDesignPattern/UFOEnemyShip.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FacadeDesignPattern/SecurityCodeCheck.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/ProtectionProxyPattern/TestProtectionProxy.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/ESUFOBossEngine.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FacadeDesignPattern/BankAccountFacade.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/ESUFOEngine.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/ProtectionProxyPattern/ReportGeneratorProxy.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/ProtectionProxyPattern/ReportGeneratorProtectionProxy.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/UFOEnemyShip.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/VirtualProxyPattern/Employee.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/ESUFOGun.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FactoryDesignPattern/BigUFOEnemyShip.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/ESUFOBossGun.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/VirtualProxyPattern/ContactListProxyImplementation.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/ProtectionProxyPattern/Manager.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FactoryDesignPattern/EnemyShipTesting.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FactoryDesignPattern/EnemyShipFactory.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/AbstractFactoryDesignPattern/EnemyShipTesting.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/RemoteProxyPattern/ReportGeneratorImplementation.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/VirtualProxyPattern/ContactListImplementation.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/ProtectionProxyPattern/Employee.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/VirtualProxyPattern/TestVirtualProxy.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FacadeDesignPattern/FundsCheck.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/RemoteProxyPattern/ReportGeneratorClient.java</file>
+            <file>file:/C:/Users/developer/Documents/NetBeansProjects/JavaDesignPatterns/src/javadesignpatterns/FactoryDesignPattern/RocketEnemyShip.java</file>
+        </group>
+    </open-files>
+</project-private>
